@@ -25,7 +25,10 @@ Experimented with deep learning models incorporating various combinations of the
 
 ### Prerequisites
 
-- Python (>=3.6)
+- Python
 - TensorFlow
 - TensorFlow Hub
-- Other dependencies (specified in `requirements.txt`)
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
